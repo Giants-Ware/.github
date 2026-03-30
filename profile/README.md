@@ -32,4 +32,4 @@ We create high-quality software tools, frameworks, and applications across multi
 📈  Scalability       — We design for growth from day one.
 ```
 ## 📦 Featured Repositories
-- [NexusAI-Production-Ready-AI-SaaS-Boilerplate](https://github.com/Giants-Ware/NexusAI-Production-Ready-AI-SaaS-Boilerplate)
+- [NexusAI](https://github.com/Giants-Ware/NexusAI-Production-Ready-AI-SaaS-Boilerplate) - A comprehensive, open-source SaaS boilerplate with multi-model AI support, authentication, multi-tenancy, billing, and admin dashboard.
