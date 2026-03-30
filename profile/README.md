@@ -31,3 +31,5 @@ We create high-quality software tools, frameworks, and applications across multi
 📐  Code Quality      — Clean, tested, and maintainable by default.
 📈  Scalability       — We design for growth from day one.
 ```
+## 📦 Featured Repositories
+- [NexusAI-Production-Ready-AI-SaaS-Boilerplate](https://github.com/Giants-Ware/NexusAI-Production-Ready-AI-SaaS-Boilerplate)
