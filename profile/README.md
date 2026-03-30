@@ -14,8 +14,8 @@ We create high-quality software tools, frameworks, and applications across multi
 
 | Domain | Technologies |
 |---|---|
-| 🌐 **Web Development** | React, Angular, Node.js, Express |
-| 📱 **Mobile Development** | Flutter, React Native |
+| 🌐 **Web Development** | React, Angular, Node.js, Express, Java, Spring Boot, TypeScript, JavaScript, Laravel|
+| 📱 **Mobile Development** | React Native |
 | ☁️ **Cloud & DevOps** | Docker, Kubernetes, CI/CD |
 | 🤖 **AI & Machine Learning** | LLMs, ML Pipelines, Data Engineering |
 | 🔧 **Open Source Tools** | Frameworks, SDKs, Developer Utilities |
