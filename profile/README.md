@@ -32,5 +32,4 @@ We create high-quality software tools, frameworks, and applications across multi
 📈  Scalability       — We design for growth from day one.
 ```
 ## 📦 Featured Repositories
-- [DocForge-SDK](https://github.com/Giants-Ware/DocForge-SDK) - A production-grade, open-source document engine and viewer — a complete alternative to Nutrient Web SDK (PSPDFKit).
 - [NexusAI](https://github.com/Giants-Ware/NexusAI-Production-Ready-AI-SaaS-Boilerplate) - A comprehensive, open-source SaaS boilerplate with multi-model AI support, authentication, multi-tenancy, billing, and admin dashboard.
